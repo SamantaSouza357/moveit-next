@@ -4,12 +4,11 @@
 A aplicação visa ajudar pessoas que ficam muito tempo na frente do computador e se esquecem de tempo em tempo se alongar. Usando do método de Pomodoro, lembrando o usuário a cada período de tempo realizar uma atividade que ao ser realizada, o usuário ganha experiência, subindo seu level.
 
 # ⚒ Como Instalar
-# 💻 Iniciando
 
-1- git clone e o link do Repositório
-2- cd nome da pasta
-3- yarn install
-4- yarn start
+* git clone e o link do Repositório
+* cd nome da pasta
+* yarn install
+* yarn start
 
 # ⛏️ Tecnologias Utilizadas
 
